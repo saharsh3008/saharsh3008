@@ -50,8 +50,8 @@ Database: MySQL • SQLite • Firebase
 
 ---
 
-📫 How to Reach Me
+📫 How to Reach Me  
 Email: saharsh3008@gmail.com
 
-LinkedIn: linkedin.com/in/saharsh08
+LinkedIn: https://www.linkedin.com/in/saharsh08/
 
