@@ -41,4 +41,8 @@ Database: MySQL • SQLite • Firebase
 ```
 ---
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saharsh3008&show_icons=true&theme=radical" alt="stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharsh3008&layout=compact&theme=radical" alt="langs" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=saharsh3008&theme=dark" alt="streaks" /> </p>
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=saharsh3008&show_icons=true&theme=radical" alt="stats" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharsh3008&layout=compact&theme=radical" alt="langs" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saharsh3008&theme=dark" alt="streaks" />
+</p>
