@@ -9,48 +9,92 @@
 
 ---
 
-### 🌟 About Me
-- 🎓 Final year CS undergrad passionate about **Machine Learning**, **Full-Stack Development**, and **Open Source**.
-- 🧠 Currently learning **TinyML**, **DevOps**, and **AI model deployment**.
-- 💬 Ask me about anything related to Python, ML, Flask, or deploying AI apps!
-- 🛠️ Constantly building and contributing to real-world projects.
+> Building systems where **AI, APIs, and infrastructure converge**.
 
 ---
 
-### 🧩 Projects I'm Proud Of
+## 👨‍💻 About Me
 
-- [⚽ Football Analysis](https://github.com/abdullahtarek/football_analysis): AI-based player tracking and video analysis.
-- [🧠 Emotion Echo](https://github.com/saharsh3008/emotion-echo): Real-time emotion recognition from facial expressions.
-- [💊 Medical Chatbot](https://github.com/saharsh3008/medical-chatbot): AI chatbot that answers medical-related queries.
-- [📈 Sales Analysis in R](https://github.com/saharsh3008/sales-analysis-by-R): Visual and statistical analysis of sales data using R.
-- [📦 SaaS Platform](https://github.com/saharsh3008/Saas): AI SaaS app template with Stripe integration.
-- [📊 WhatsApp Analyzer](https://github.com/saharsh3008/whatsapp-analyzer): Chat analysis & word clouds from WhatsApp exports.
+I’m a **final-year Computer Science undergraduate** focused on building **production-oriented systems** across **AI, backend, and full-stack development**, with a strong bias toward shipping reliable, scalable software.
+
+I’ve worked on **AI-powered applications**, **ML pipelines**, **vector search systems**, and **API-driven backends**, handling everything from **system design and data flow** to **deployment and performance trade-offs**.
+
+### 🚧 Currently Working On
+**Digital Mall Platform** — **building the digital infrastructure layer for modern malls and multi-store retail spaces.**  
+The project focuses on:
+- **Unified digital presence** for malls and stores  
+- **Real-time store discovery**, events, and offers  
+- **Search-driven experiences** and structured data APIs  
+- Designing for **scalability, extensibility, and real-world usage**
+
+### 🔧 Technical Interests
+- **AI & ML systems** (model integration, inference, deployment)  
+- Backend engineering & API design  
+- Databases (SQL & NoSQL), search & vector systems  
+- DevOps workflows, scalability & reliability  
+
+I enjoy solving problems where **architecture, correctness, and performance** matter more than demos.
+
+---
+
+## 🧩 Projects I'm Proud Of
+
+- ⚽ Digital Mall Platform: Building the digital infrastructure layer for modern malls and multi-store retail spaces.
+- 🧠 Interview AI: AI-powered interview analysis system for response evaluation and structured feedback.
+- 💊 Medical Chatbot: AI chatbot that answers medical-related queries.
+- 📈 DocuQuery AI: RAG-based document question-answering system using vector search and LLMs.
+- 📦 FluentVoice AI: Framework for building real-time voice-based AI agents.
+- 📊 WhatsApp Analyzer: Chat analysis & word clouds from WhatsApp exports.
 
 > 🔗 Check out all my projects [here](https://github.com/saharsh3008?tab=repositories)
 
 ---
 
-### ⚒️ Tech Stack
+## ⚒️ Tech Stack
 
 ```text
-Languages: Python • JavaScript • C++ • HTML • CSS • R  
-Frameworks: Flask • Streamlit • React • Tailwind  
-Tools: Git • Docker • VS Code • Linux • Heroku • Netlify  
-AI/ML: Scikit-learn • TensorFlow • OpenCV • YOLO  
-Database: MySQL • SQLite • Firebase
+Languages:
+Python • JavaScript • TypeScript • C/C++ • SQL
+
+AI / ML & GenAI:
+TensorFlow • PyTorch • Keras • OpenCV • YOLO • LLMs • LangChain • RAG • Vector Search • Agentic Workflows
+
+Backend & APIs:
+FastAPI • Flask • Node.js • Express • RESTful APIs • Authentication • Low-latency inference
+
+Frontend:
+React.js • Tailwind CSS • HTML • CSS
+
+Databases:
+PostgreSQL • MongoDB • MySQL • SQLite
+
+DevOps & Tools:
+Docker • Git • GitHub • Postman • Linux • VS Code
+
+Data & Analytics:
+NumPy • Pandas • Power BI • Streamlit
 ```
 ---
 
-📈 GitHub Stats
+## 📈 GitHub Stats
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=saharsh3008&show_icons=true&theme=radical" alt="stats" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=saharsh3008&show_icons=true&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharsh3008&layout=compact&theme=radical" alt="langs" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saharsh3008&theme=dark" alt="streaks" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saharsh3008&theme=dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saharsh3008&theme=react-dark" />
 </p>
 
 ---
 
-📫 How to Reach Me  
+## 🏆 Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=saharsh3008&theme=darkhub&no-frame=true&row=1" />
+</p>
+
+---
+
+## 📫 How to Reach Me  
+
 Email: saharsh3008@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/saharsh08/
